@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811496afa07246cbb54cfc4a861aa972, type: 3}
+  m_Name: MetroConfig
+  m_EditorClassIdentifier: 
+  _lines:
+  - _lineId: Red
+    _lineColor:
+      serializedVersion: 2
+      key0: {r: 0.91764706, g: 0, b: 0.16078432, a: 1}
+      key1: {r: 0.91764706, g: 0, b: 0.16078432, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    _isCircleLine: 0
+    _stations:
+    - {fileID: 11400000, guid: 27f6f9500cc409e40a169a355e3c26fd, type: 2}
+    - {fileID: 11400000, guid: 77758096fddde044ea882c7e7d94bcd9, type: 2}
+    - {fileID: 11400000, guid: 660bfa004111d2647945bd22cd35ae7b, type: 2}
+    - {fileID: 11400000, guid: 4940bfaeced11584790c6b0d4cc28c42, type: 2}
+    - {fileID: 11400000, guid: 2dfd6d7f3abe96d479c204b30e63e1f2, type: 2}
+    - {fileID: 11400000, guid: 01ab59cecca36004587648a2336301fd, type: 2}
+  - _lineId: Black
+    _lineColor:
+      serializedVersion: 2
+      key0: {r: 0, g: 0.11265849, b: 0.14899999, a: 1}
+      key1: {r: 0, g: 0.11372549, b: 0.14901961, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    _isCircleLine: 0
+    _stations:
+    - {fileID: 11400000, guid: 77758096fddde044ea882c7e7d94bcd9, type: 2}
+    - {fileID: 11400000, guid: e2b4192fa7defc74e8bb648f3fce7f93, type: 2}
+    - {fileID: 11400000, guid: 725dcc2247f60bb49a43bfbbb513fefc, type: 2}
+    - {fileID: 11400000, guid: 01ab59cecca36004587648a2336301fd, type: 2}
+    - {fileID: 11400000, guid: 25f39fcd09cdef946819794edb0fda4a, type: 2}
+  - _lineId: Blue
+    _lineColor:
+      serializedVersion: 2
+      key0: {r: 0, g: 0.44313726, b: 0.80784315, a: 1}
+      key1: {r: 0, g: 0.44313726, b: 0.80784315, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    _isCircleLine: 0
+    _stations:
+    - {fileID: 11400000, guid: cf390dea9d961c5468fc9af2bdd6c59f, type: 2}
+    - {fileID: 11400000, guid: c718886fff2fc9c4cac4d50ba84656af, type: 2}
+    - {fileID: 11400000, guid: 4940bfaeced11584790c6b0d4cc28c42, type: 2}
+    - {fileID: 11400000, guid: 725dcc2247f60bb49a43bfbbb513fefc, type: 2}
+    - {fileID: 11400000, guid: 3f3593724f2d3aa4bb86ab8157538bdf, type: 2}
+  - _lineId: Green
+    _lineColor:
+      serializedVersion: 2
+      key0: {r: 0.3882353, g: 0.54901963, b: 0.10980392, a: 1}
+      key1: {r: 0.3882353, g: 0.54901963, b: 0.10980392, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    _isCircleLine: 1
+    _stations:
+    - {fileID: 11400000, guid: ef1ab7419a82abf478368a5a09ce0d27, type: 2}
+    - {fileID: 11400000, guid: 660bfa004111d2647945bd22cd35ae7b, type: 2}
+    - {fileID: 11400000, guid: 725dcc2247f60bb49a43bfbbb513fefc, type: 2}
+    - {fileID: 11400000, guid: 2dfd6d7f3abe96d479c204b30e63e1f2, type: 2}
+    - {fileID: 11400000, guid: 193a2af88714bb3478ac2216d6fa222e, type: 2}
+    - {fileID: 11400000, guid: c718886fff2fc9c4cac4d50ba84656af, type: 2}
